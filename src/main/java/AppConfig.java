@@ -10,6 +10,6 @@ public class AppConfig {
         HelloWorld helloWorld = new HelloWorld();
         helloWorld.setMessage("Hello World!");
         return helloWorld;
-        //
+
     }
 }
