@@ -24,3 +24,4 @@ public class App {
         System.out.println(bean3 == bean4);
     }
 }
+
